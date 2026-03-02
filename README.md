@@ -1,5 +1,8 @@
 # pysuika
 
+**This ia wip project not ready to be published on pypl and tested**
+
+
 A Python package for the Suika (watermelon-drop) physics game with a clean agent API.
 
 ## Installation
